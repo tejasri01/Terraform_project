@@ -16,7 +16,7 @@ cat <<EOF > /var/www/html/index.html
   <title>Hello World</title>
 </head>
 <body style="text-align:center; margin-top:100px;">
-  <h1>Hello from Ameer</h1>
+  <h1>This my first Userdata</h1>
   <p>Deployed using Terraform User Data</p>
 </body>
 </html>
